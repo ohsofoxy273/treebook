@@ -12,7 +12,7 @@ Treebook::Application.routes.draw do
   root 'statuses#index' 
   get 'feed', to: 'status#index', as: :feed
   resources :statuses
-
+  get ':id', to: 'profiles#show'
 
 
   # The priority is based upon order of creation: first created -> highest priority.

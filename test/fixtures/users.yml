@@ -1,7 +1,13 @@
 jason:
-    first_name: "Jason"
-    last_name: "Seifer"
-    email: "jason@teamtreehouse.com"
-    profile_name: "jasonseifer"
-    encrypted_password: "password"
-    
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
+  encrypted_password: "password"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
+  encrypted_password: "password"
